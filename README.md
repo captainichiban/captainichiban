@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Solana
 - 🌱 I’m currently learning ... Rust
 - 💞️ I’m looking to collaborate on ... NFT gaming, Star Atlas
-- 📫 How to reach me ...
+- 📫 How to reach me ... message me via twitter @captainichiban
 
 <!---
 captainichiban/captainichiban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
