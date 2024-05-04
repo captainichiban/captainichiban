@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @captainichiban
 - 👀 I’m interested in ... Solana
-- 🌱 I’m currently learning ... Rust
-- 💞️ I’m looking to collaborate on ... NFT gaming, Star Atlas
+- 🌱 I’m currently learning ... Python, Rust
+- 💞️ I’m looking to collaborate on ... algo trading, Solana
 - 📫 How to reach me ... message me via twitter @captainichiban
 
 <!---
